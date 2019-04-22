@@ -1,0 +1,15 @@
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.dll
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.xml
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CopyComplete
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.Migrations.Migration.resources
+C:\Users\МырзабекДи\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.GenerateResource.cache
